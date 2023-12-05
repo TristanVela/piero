@@ -1,1 +1,6 @@
-cambios en el texto 1
+<<<<<<< HEAD
+cambios en el texto 1, fusionando conflictos
+
+=======
+Cambio de texto, arreglando conflictos
+>>>>>>> master
